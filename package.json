@@ -1,6 +1,6 @@
 {
-  "name": "design-system-assets",
-  "version": "1.0.0",
+  "name": "@siulAvila/design-system-assets",
+  "version": "1.0.1",
   "description": "Lib with assets for design system",
   "main": "index.js",
   "scripts": {
