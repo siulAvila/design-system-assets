@@ -1,0 +1,23 @@
+{
+  "name": "design-system-assets",
+  "version": "1.0.0",
+  "description": "Lib with assets for design system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siulAvila/design-system-assets.git"
+  },
+  "keywords": [
+    "design-system",
+    "meiuca"
+  ],
+  "author": "Luis Fernando",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/siulAvila/design-system-assets/issues"
+  },
+  "homepage": "https://github.com/siulAvila/design-system-assets#readme"
+}
