@@ -4,7 +4,7 @@
   "description": "Lib with assets for design system",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "rm -rf build && node src/build.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/siulAvila/design-system-assets/issues"
   },
-  "homepage": "https://github.com/siulAvila/design-system-assets#readme"
+  "homepage": "https://github.com/siulAvila/design-system-assets#readme",
+  "dependencies": {
+    "fs-extra": "^10.0.1"
+  }
 }
